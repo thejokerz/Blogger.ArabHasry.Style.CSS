@@ -471,7 +471,7 @@ a.active i.topnav-icon, a.active:hover i.topnav-icon, a.active:focus i.topnav-ic
 }
 
 .dropdown-container.dropdown-open .dropdown-toggle {
-  background-color: #0075ff;
+  background-color: #2ba640;
   color: #ffffff;
 }
 
@@ -752,7 +752,7 @@ a.active i.sidenav-icon, a.active:hover i.sidenav-icon, a.active:focus i.sidenav
 }
 
 .accordion-header.active {
-    background-color: #0075ff;
+    background-color: #2ba640;
     color: #ffffff;
 }
 
